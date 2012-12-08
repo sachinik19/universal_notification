@@ -1,8 +1,10 @@
 *.gem
 *.rbc
+*.swp
 .bundle
 .config
 .yardoc
+.rspec
 Gemfile.lock
 InstalledFiles
 _yardoc
@@ -15,3 +17,4 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+vendor

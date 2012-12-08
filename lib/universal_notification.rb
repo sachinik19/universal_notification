@@ -1,5 +1,9 @@
 require "universal_notification/version"
 
 module UniversalNotification
-  # Your code goes here...
+
+  def self.notify
+
+  end
+
 end
